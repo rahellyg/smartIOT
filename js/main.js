@@ -260,3 +260,9 @@
 
 })(jQuery);
 
+function openLoginRegPage()
+{
+	// window.open("log_reg.html")
+	window.location.href ="log_reg.html"
+}
+

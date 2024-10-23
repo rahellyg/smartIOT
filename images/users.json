@@ -1,0 +1,46 @@
+[
+  {
+    "name": "aaa",
+    "password": "111"
+  },
+  {
+    "name": "bbb",
+    "password": "111"
+  },
+  {
+    "name": "ראיסה יעיש",
+    "birthDate": "2020-12-12",
+    "email": "1@1.com",
+    "password": "123456"
+  },
+  {
+    "name": "ראיסה יעיש1",
+    "birthDate": "2020-12-12",
+    "email": "1@1.com",
+    "password": "123456"
+  },
+  {
+    "name": "ראיסה יעיש2",
+    "birthDate": "2020-12-12",
+    "email": "1@1.com",
+    "password": "123456"
+  },
+  {
+    "name": "ראיסה יעיש3",
+    "birthDate": "2020-12-12",
+    "email": "1@1.com",
+    "password": "123456"
+  },
+  {
+    "name": "ראיסה יעיש4",
+    "birthDate": "2020-12-12",
+    "email": "1@1.com",
+    "password": "123456"
+  },
+  {
+    "name": "ראיסה יעיש5",
+    "birthDate": "2020-12-12",
+    "email": "1@1.com",
+    "password": "123456"
+  }
+]
